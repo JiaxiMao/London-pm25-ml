@@ -1,0 +1,10 @@
+metric,value
+test_cells,1206.0
+rf_prediction_mean,8.827298136804238
+rf_prediction_std,0.5181554297671102
+rf_residual_mean,-0.052429931677609065
+rf_residual_std,0.41606150881384824
+rf_residual_mae,0.33940132725747024
+rf_residual_rmse,0.41918079459945845
+rf_residual_min,-1.6563332288436916
+rf_residual_max,1.19398412752913

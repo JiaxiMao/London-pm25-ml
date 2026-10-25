@@ -1,0 +1,10 @@
+Selected model: XGBoost
+Selection metric: RMSE on spatial holdout
+Training cells for final fit: 6,670
+Features:
+- major_mean_aadf
+- major_hgv_mean_aadf
+- major_road_length_m
+- minor_vkm_total
+- minor_hgv_vkm
+- green_cover_pct

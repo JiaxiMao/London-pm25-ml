@@ -1,0 +1,9 @@
+metric,value
+final_model,XGBoost
+cells_predicted,6670
+prediction_mean,8.772964511064467
+prediction_min,7.360711
+prediction_max,11.551817
+best_test_R2,0.5983797871361246
+best_test_RMSE,0.4130841365422036
+best_test_MAE,0.3335935181322618
